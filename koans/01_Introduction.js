@@ -1,7 +1,7 @@
 describe('expect에 대해서 학습합니다.', function () {
   /*
   아래 코드는 여러분이 작성한 함수가 주어진 입력값에 대해서 리턴하는 값이 기대하는 값과 같은지를 비교하는 것입니다.
-  
+  //ddddddddddddddddddddd
   이때 테스트하는 값과 기대값을 비교하기 위해 expect 함수를 사용합니다.
   expect의 사용법은 아래와 같습니다.
   
